@@ -6,6 +6,7 @@ Olá! Eu me chamo Paulo Roberto Ribeiro Junior, seja bem-vindo! Atualmente sou e
 - **Desenvolvimento Back-End** com foco em **C#**
 - **Programação Orientada a Objetos**
 - **Modelagem de Sistemas e Bancos de Dados**
+- **Programação Web**
 
 ## 🎓 Experiência
 - **Oficinas práticas sobre API REST** na **Multivix**
