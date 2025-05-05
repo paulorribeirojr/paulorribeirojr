@@ -1,7 +1,6 @@
 # Sobre mim ✨
 
-Olá! Eu me chamo [Paulo Roberto Ribeiro Junior] 👋
-Atualmente sou estudante de **Sistemas de Informação (7º período)** pela **Multivix**, com formação técnica pelo **IFES** e **8 anos de envolvimento com tecnologia**.
+## Olá! Eu me chamo [Paulo Roberto Ribeiro Junior] 👋 Atualmente sou estudante de **Sistemas de Informação (7º período)** pela **Multivix**, com formação técnica pelo **IFES** e **8 anos de envolvimento com tecnologia**.
 
 ## 🚀 Conhecimentos
 - **Desenvolvimento Back-End** com foco em **C#**
