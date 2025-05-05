@@ -22,7 +22,7 @@ Busco crescer na área de tecnologia, contribuindo com projetos inovadores e apr
 
 🔗 Você pode me encontrar também em:
 
-- [LinkedIn]([seulinkedin.com](https://www.linkedin.com/in/paulo-roberto-ribeiro-junior/))
+- [LinkedIn]((https://www.linkedin.com/in/paulo-roberto-ribeiro-junior/))
 
 <!--
 **paulorribeirojr/paulorribeirojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
